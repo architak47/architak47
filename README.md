@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Archit kumar Awasthi<br><br>- 🔭 Final year Engineering student<br>- 📚 I'm a Software Developer<br>- ⚡ I like swimming🏊‍♂️</p>
+<p align="left">I'm Archit kumar Awasthi<br><br>- 🔭 Engineer<br>- 📚 I'm a Software Developer<br>- ⚡ I like swimming🏊‍♂️</p>
 
 ###
 
